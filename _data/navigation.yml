@@ -13,16 +13,16 @@ main:
     url: /educations/    
 
   - title: "Research Interests"
-    url: /researchInterests/    
+    url: /research-interests/    
 
   - title: "Academic Experience"
-    url: /academicExperience/
+    url: /academic-experience/
 
   - title: "CV"
     url: /files/cvYu.pdf
 
   - title: "Awards & Honors"
-    url: /awardsAndHonors/
+    url: /awards-and-honors/
         
   - title: "Publications"
     url: /publications/

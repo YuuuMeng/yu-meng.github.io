@@ -1,5 +1,5 @@
 ---
-permalink:
+permalink: /
 title: "Hi there, I'm Yu! 👋"
 excerpt: "About me"
 author_profile: true
