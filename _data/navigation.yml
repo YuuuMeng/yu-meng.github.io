@@ -8,17 +8,18 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "About Me"
-    url: /aboutMe/
 
   - title: "Educations"
     url: /educations/    
 
-  - title: "Research Interests & Experience"
-    url: /researchInterestsAndExperience/    
+  - title: "Research Interests"
+    url: /researchInterests/    
+
+  - title: "Academic Experience"
+    url: /academicExperience/
 
   - title: "CV"
-    url: /files/cvYu.pdf/
+    url: /files/cvYu.pdf
 
   - title: "Awards & Honors"
     url: /awardsAndHonors/

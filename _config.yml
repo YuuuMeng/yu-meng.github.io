@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Yu's / Homepage"
+title                    : "Yu's Homepage"
 title_separator          : "-"
 name                     : &name "Yu Meng"
 description              : &description "personal description"
@@ -29,7 +29,7 @@ author:
    with experience in ML, big data, NLP, and public opinion analysis. 
    Research interests remain open to refinement during the PhD."
   location         : "Limerick, Ireland"
-  employer         : "Graduated from University of Limerick"
+  employer         : "University of Limerick"
   uri              : # URL
   email            : "mengyu011@gmail.com" 
 
@@ -41,7 +41,7 @@ author:
   impactstory      : # URL
   #orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
