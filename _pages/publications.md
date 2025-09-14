@@ -7,8 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-# 📚 Publications & Papers  
-
 ---
 
 ## 📝 Current Status  
@@ -20,4 +18,4 @@ At present, I do not have peer-reviewed publications. My research work so far ha
 
 ---
 
-✨ This section will be updated as new research outputs are published. Stay tuned for future work!  
+📚 This section will be updated as new research outputs are published. Stay tuned for future work!  

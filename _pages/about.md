@@ -13,7 +13,7 @@ redirect_from:
 
 ---
 
-**Welcome to my personal academic page! **
+**Welcome to my personal academic page!**.  
 Here, you’ll find my research interests, professional background, and updates on my journey toward pursuing a **PhD in Computer Science in Fall 2026**.  
 
 ---

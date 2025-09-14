@@ -9,23 +9,7 @@ author_profile: true
 
 # 📚 Academic & Research Experience  
 
-<details>
-<summary>✍️ <b>Writing</b></summary>  
-
-- Applied best practices in software documentation and programming assignments, as well as internationalisation projects.  
-- Authored research reports, technical documentation, and dissertations across modules including Research Methods, Software Engineering, Database Systems, and Human–Computer Interaction (HCI).  
-
-</details>
-
-<details>
-<summary>🎤 <b>Presentation</b></summary>  
-
-- Delivered academic presentations on research findings, software designs, and project outcomes.  
-- Skilled at communicating technical and analytical concepts clearly to academic audiences.  
-
-</details>
-
-
+---
 
 <div class="timeline">
 

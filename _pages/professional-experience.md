@@ -5,12 +5,9 @@ permalink: /professional-experience/
 author_profile: true
 ---
 
-{% include base_path %}
-
-# 💼 Professional Experience  
+{% include base_path %} 
 
 ---
-
 ## 🖥️ Junior Software Developer  
 **Kneat Solutions, Limerick** | *Sept 2023 – Present*  
 
@@ -23,18 +20,14 @@ author_profile: true
 - 🔄 Collaborated via **Git/GitHub** for version control in **Agile/Scrum** practices.  
 
 ---
-
 # 🛠️ Skills  
 
 ### 💻 Programming  
 C#, ASP.NET Core, Python (ML/NLP), SQL, HTML, CSS, FrontPage  
-
 ### 🧰 Tools & Frameworks  
 Entity Framework, AWS, Docker, Kubernetes, Git/GitHub, Linux, PowerShell  
-
 ### 🌍 Languages  
 - English: Professional Working Proficiency  
 - Chinese: Native  
-
-### 🧑‍💼 General Skills  
+### 💼 General Skills  
 Microsoft Office Suite, EndNote, FileMaker, Website design & management, Analytical problem-solving, Effective communication, Teamwork  
