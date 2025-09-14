@@ -21,11 +21,11 @@ main:
   - title: "Professional Experience"
     url: /professional-experience/
 
-  - title: "Awards & Honors"
-    url: /awards-and-honors/
+  - title: "Honors & Publications"
+    url: /honors-and-publications/
         
-  - title: "Publications"
-    url: /publications/
+  #- title: "Publications"
+  #  url: /publications/
     
 
     
