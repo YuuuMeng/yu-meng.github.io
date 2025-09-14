@@ -10,19 +10,20 @@ author_profile: true
 
 ## 🏅 Academic Achievements  
 
-- **Sept 2023** — **First Class Honor**, M.A. in Software Development, **University of Limerick**  
+- **Sept 2023** — **First Class Honor**, M.A. in Software Development, **University of Limerick, Ireland**  
 - **Sept 2019** — **Distinction**, B.A. in Hydraulic and Hydraulic Power Engineering, **Northwest A&F University, Xi’an, China**  
 
 ---
 
 ## 📚 Publications & Papers
 
-# 📝 Current Status  
+
+📝 Current Status  
 
 At present, I do not have peer-reviewed publications. My research work so far has been carried out during my Master's degree and early career, laying the groundwork for future publications.  
 
 - My M.A. dissertation (*“Sentiment Analysis and Evaluation on Twitter Data by Supervised Machine Learning Algorithms”*) produced results that can be further developed into publishable work.  
-- Ongoing exploration in **machine learning, NLP, public opinion analysis, and applied AI** is expected to generate publishable findings during my PhD studies. 
+- Ongoing exploration in machine learning, NLP, public opinion analysis, and applied AI is expected to generate publishable findings during my PhD studies. 
 
 ---
 
