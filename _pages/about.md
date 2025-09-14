@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi there, I'm Yu! 👋"
+title: "Hi there, I'm Yu Meng! 👋"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,14 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-# Welcome to Yu Meng's Personal Academic Page 🎓  
-
 💻 Software Developer | 🌱 Aspiring PhD Researcher in Computer Science  
 📧 mengyu011@gmail.com | 📱 089 401 3864  
 
 ---
 
-✨ Welcome to my personal academic page! Here, you’ll find my research interests, professional background, and updates on my journey toward pursuing a **PhD in Computer Science in Fall 2026**.  
+**Welcome to my personal academic page! **
+Here, you’ll find my research interests, professional background, and updates on my journey toward pursuing a **PhD in Computer Science in Fall 2026**.  
 
 ---
 
@@ -29,7 +28,7 @@ With an academic background in software development and machine learning, I am p
 
 
 ## 🔍 Research Interests   
-My current research interests (open to refinement during PhD) include:  
+🎓 My current research interests (open to refinement during PhD) include:  
 
 - 🚨 AI & Machine Learning 
 - 🧩 Big Data, Text Mining, Public Opinion Analysis
@@ -42,12 +41,13 @@ My current research interests (open to refinement during PhD) include:
 
 ---
 
- My professional and academic experience covers:  
+ 🎓 My professional and academic experience covers:  
 - 🧠 Machine Learning (ML) & Model Development  
 - 💬 Natural Language Processing (NLP)  
 - 📊 Sentiment Analysis & Public Opinion Dynamics  
-- 🤝 Human–Computer Interaction (HCI)  
-- ⚡ Applied AI with industry-relevant impact  
+- 🤝 Human–Computer Interaction (HCI) 
+- ⚡ Applied AI with industry-relevant impact
+
 ---
 
 
