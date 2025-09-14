@@ -20,7 +20,7 @@ author_profile: true
 - 🔄 Collaborated via **Git/GitHub** for version control in **Agile/Scrum** practices.  
 
 ---
-# 🛠️ Skills  
+## 🛠️ Skills  
 
 ### 💻 Programming  
 C#, ASP.NET Core, Python (ML/NLP), SQL, HTML, CSS, FrontPage  
@@ -29,5 +29,8 @@ Entity Framework, AWS, Docker, Kubernetes, Git/GitHub, Linux, PowerShell
 ### 🌍 Languages  
 - English: Professional Working Proficiency  
 - Chinese: Native  
-### 💼 General Skills  
-Microsoft Office Suite, EndNote, FileMaker, Website design & management, Analytical problem-solving, Effective communication, Teamwork  
+### 💼 General Skills 
+- Microsoft Office Suite, EndNote, FileMaker
+- Website design & management
+- Analytical problem-solving
+- Effective communication & Teamwork

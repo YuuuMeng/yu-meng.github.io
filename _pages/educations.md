@@ -19,16 +19,16 @@ author_profile: true
 - Human–Computer Interaction
 - Quantitative Research Methods
 
-👩‍🏫 **Supervisors**  *“Dr. Tabea De Wille,  Dr. Chris Exton”*  
+👩‍🏫 **Supervisors**: *“Dr. Tabea De Wille,  Dr. Chris Exton”*  
 
-📄 **Dissertation**  *“Sentiment Analysis and Evaluation on Twitter Data by Supervised Machine Learning Algorithms”*  
+📄 **Dissertation**: *“Sentiment Analysis and Evaluation on Twitter Data by Supervised Machine Learning Algorithms”*  
 
 🔬 **Research Methods**  
 - Collected and preprocessed large-scale Twitter data using NLP techniques (tokenization, noise removal, feature extraction)  
 - Applied supervised ML classifiers (SVM, Naïve Bayes, KNN, Random Forest)  
 - Evaluated models with accuracy, precision, recall, and F1-score 
 
-
+---
 📌 **2015–2019 — B.A. Hydraulic Engineering (Distinction)**  
 **Northwest A&F University, Xi’an, China**  
 
