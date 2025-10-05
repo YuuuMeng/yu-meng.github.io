@@ -29,7 +29,7 @@ author_profile: true
 - Evaluated models with accuracy, precision, recall, and F1-score 
 
 ---
-📌 **2015–2019 — B.A. Hydraulic Engineering (Distinction)**  
+📌 **2015–2019 — B.A. Hydraulic Engineering (Second Class (2.2))**  
 **Northwest A&F University, Xi’an, China**  
 
 📘 **Modules**  

@@ -11,7 +11,7 @@ author_profile: true
 ## 🏅 Academic Achievements  
 
 - **Sept 2023** — **First Class Honor**, M.A. in Software Development, **University of Limerick, Ireland**  
-- **Sept 2019** — **Distinction**, B.A. in Hydraulic and Hydraulic Power Engineering, **Northwest A&F University, Xi’an, China**  
+- **Sept 2019** — **Second Class Honours**, B.A. in Hydraulic and Hydraulic Power Engineering, **Northwest A&F University, Xi’an, China**  
 
 ---
 

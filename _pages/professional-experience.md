@@ -29,7 +29,7 @@ Entity Framework, AWS, Docker, Kubernetes, Git/GitHub, Linux, PowerShell
 ### 🌍 Languages  
 - English: Professional Working Proficiency  
 - Chinese: Native  
-### 💼 General Skills 
+### 💼 General Skills
 - Microsoft Office Suite, EndNote, FileMaker
 - Website design & management
 - Analytical problem-solving
